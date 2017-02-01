@@ -11,6 +11,6 @@ public class SpringMvcQuoteApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringMvcQuoteApplication.class, args);
-		System.out.println("Push to test branch");
+		System.out.println("Push to deleted test branch");
 	}
 }
